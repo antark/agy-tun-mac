@@ -1,4 +1,4 @@
-# mac上安装agy-tun之后就可以支持agy(antigravity)的正常登陆
+# mac上支持agy(antigravity)的正常登陆
 
 ## 在新 Mac 上部署 agy-tun (零依赖)
 把 agy-tun-bundle.tar.gz 和 agy-tun-deploy.sh 放到同一目录
