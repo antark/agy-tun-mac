@@ -1,13 +1,12 @@
-# agy-tun-mac
-mac上安装agy-tun之后就可以支持agy(antigravity)的正常登陆
+# mac上安装agy-tun之后就可以支持agy(antigravity)的正常登陆
 
-# 在新 Mac 上部署 agy-tun (零依赖, 不需要访问 GitHub)
-前提: 把 agy-tun-bundle.tar.gz 和 agy-tun-deploy.sh 放到同一目录
+## 在新 Mac 上部署 agy-tun (零依赖)
+把 agy-tun-bundle.tar.gz 和 agy-tun-deploy.sh 放到同一目录
 
-# 用法:
+## 用法:
 bash agy-tun-deploy.sh --port 1080     # 使用1080 socks5 的代理端口，默认 13659
 
-# 执行后的输出
+## 执行后的输出
 % bash agy-tun-deploy.sh --port 10808
 [+] extracted to ~/.local/agy-tun
 [+] 使用架构: arm64
