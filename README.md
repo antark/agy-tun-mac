@@ -19,6 +19,7 @@ bash agy-tun-deploy.sh --port 1080     # 使用1080 socks5 的代理端口，默
 
 部署完成
 
+
 每次使用:
 
   sudo agy-tun-up      # 启 TUN (一次密码)
